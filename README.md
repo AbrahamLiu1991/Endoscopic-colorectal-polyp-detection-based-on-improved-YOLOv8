@@ -1,4 +1,6 @@
 # Endoscopic-colorectal-polyp-detection-based-on-improved-YOLOv8
+This is the code for our EMBC 2024 paper: Jincai Huang, Jianyuan Zeng, Jinfeng Peng, Mengye Lyu, Shaojun Liu, Endoscopic Colorectal Polyp Detection Based on Improved YOLOv8.
+
 This repository includes Endoscopic colorectal polyp detection based on improved YOLOv8. We employ deformable Conv V2 and EMA modules to improve the YOLOv8 model, further achieving a significant performance improvement while maintaining the detection speed.
 
 ## YOLOv8 project deployment
